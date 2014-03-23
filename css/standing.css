@@ -6,7 +6,6 @@
         font-weight: 400;
       }
       
-      
       h1, h2, .h1, .h2 {
         font-weight: 400;
         line-height: 1.25;
@@ -33,15 +32,7 @@
         font-size: 18px;
       }
       
-      small, .small {
-        font-size: 14px;
-      }
-      
-      strong, .strong {
-        font-weight: 700;
-      }
-      
-      p, ul, ol { margin-top: 1em; }
+      p, ul, ol { margin-top: 0px; }
       
             @media screen and (min-width: 480px) {
               h1, .h1 { font-size: 48px; }
@@ -60,23 +51,11 @@
       /*
       Header 
       */
+
       p.p1 {margin: 30.0px 0.0px 0.0px 0.0px; font: 64.0px 'Helvetica'; color: #444444}
       p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 20.0px 'Helvetica'; color: #444444}
       span.s1 {letter-spacing: 0.0px}
-      
-      
-      .wrap {
-        width: 90%;
-        padding: 0 5%;
-        max-width: 48em;
-        margin: 0 auto;
-        overflow: hidden;
-      }
-      
-      article {
-        margin-top: 2em;
-      }
-      
+            
       a {
         color: #0099bb;
         text-decoration: none;
@@ -86,213 +65,58 @@
         color: #0099bb;
         text-decoration: underline;
       }
-      
-      header {
-        width: 90%;
-        padding: 2em 5% 0;
-        max-width: 48em;
-        margin: 0 auto;
-        overflow: hidden;
-      }
-      
-      /*header:after {
-        clear: both;
-        content: '.';
-        display: block;
-        height: 0;
-        visibility: hidden;
-      }*/
-      
-      .logo {
-        float: left;
-        margin-right: 1em;
-      }
-      
-      header h1, header p {
-        margin: 0;
-      }
-      
-      header a, a.post-title {
-        color: {color:Text};
-      }
-      
-      a.post-title:hover {
-        text-decoration: none;
-        color: {color:Link};
-      }
-      
-      header a:hover {
-        text-decoration: none;
-      }
-      
-      .post img,
-      .photoset,
-      .photoset img,
-      .photoset_row {
-        max-width: 100%;
-      }
-      
-      .post iframe, .video object {
-        width: 100%;
-        max-width: 100%;
-      }
-      
-      .post blockquote {
+          
+      blockquote {
         padding-left: 1em;
+        font-style: italic;
         border-left: 2px solid #ddd;
       }
       
-      .post ul, .post ol {
-        margin-left: .1 em;
-      }
-      
-      .post footer ul, .post footer ol {
-        margin: 0;
-      }
-      
-      .quote blockquote {
-        padding: 0;
-        border: none;
-        font-style: italic;
-      }
-      
-      .quote .source {
-        text-align: right;
-      }
-      
-      .post footer {
-        padding: 0;
-        margin-top: 1em;
-        color: #aaa;
-        font-style: italic;
-      }
-      
-      .post footer a {
-        color: #aaa;
-      }
-      
-      .post footer a:hover {
-        color: #999;
-      }
-      
-      .post footer .source {
-        float: right;
-        margin-right: 0;
-      }
-      
-      .post footer ul li {
-        display: inline-block;
-        margin-right: 1em;
-      }
-      
-      .tags {
-        margin-top: 1em;
-      }
-      
-      .pagination {
-        margin-top: 4em;
-        text-align: center;
-        line-height: 3em;
-        overflow: hidden;
-      }
-      
-      /*.pagination:after {
-        clear: both;
-        content: '.';
-        display: block;
-        height: 0;
-        visibility: hidden;
-      }*/
-      
-      .pagination a {
-        display: block;
-        height: 3em;
-        padding: 0 1em;
-        border-radius: 0.25em;
-      }
-      
-      .pagination a:hover {
-        background: #eee;
-        text-decoration: none;
-      }
-      
-      .pagination .previous {
-        float: left;
-      }
-      
-      .pagination .next {
-        float: right;
-      }
+/*Navbar*/
 
-    
-      footer.wrap {
-        padding-top: 2em;
-        padding-bottom: 2em;
-      }
-      
-      ul.pages {
-        list-style: none;
-      }
-      
-      ul.pages li {
-        display: inline-block;
-        margin-right: 1em;        
-      }
-      
-      ul.pages li a {
-        display: block;
-        height: 3em;
-        line-height: 3em;
-      }
-      
-      
-      /* Permalink Notes */
-      
-      aside.notes {
-        margin-top: 2em;
-      }
-      
-      ol.notes {
-        list-style: none;
-        margin-top: 1em;
-        border: 1px solid #ddd;
-        border-radius: 0.25em;
-      }
-      
-      ol.notes, ol.notes a {
-        color: #aaa;
-      }
-      
-      li.note {
-        display: block;
-        line-height: 2em;
-        padding: 0.5em 1em;
-        border-bottom: 1px solid #ddd;
-      }
-      li.note:last-child {
-        border: none;
-      }
-      
-      ol.notes li.note img.avatar {
-        display: block;
-        float: left;
-        width: 2em;
-        height: 2em;
-        margin-right: 1em;
-        border-radius: 0.25em;
-      }
-      
-      .notes .action a {
-        color: {color:Text};
-      }
-      
-      .action {
-        display: block;
-        margin-left: 3em;
-      }
-      
-      .notes blockquote {
-        line-height: 1.5;
-        margin-left: 3em;
-      }
+.navbar {
+  background: #FFFFFF;
+  width: 100%;
+  position: fixed;
+  z-index: 1000;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  /*box-shadow: 0px  3px 3px #ddd;*/ 
+}
+  
+.navbar-top {
+  top: 0px;
+  border-bottom: 1px solid #272727;
+}
+.navbar-bottom {
+  bottom: 0px;
+  border-top: 1px solid #272727;
+}
+.navbar p,
+.navbar li {
+  font-size: 23px;
+  line-height: 30px;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+.navbar li {
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.navbar a {
+  font-family: Helvetica, sans-serif, Verdana;
+  color: #09b;
+  font-size: 18px;
+  margin-bottom: 0;
+  text-decoration: none;
+  font-weight: 500;
+}
+.navbar a:hover {
+  color: #444444;
+}
+
 
