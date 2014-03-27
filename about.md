@@ -2,7 +2,6 @@
 layout: default
 title: About
 ---
-
 ## About
 
 Since 1998 I've embraced the study of the subject of stillness.
