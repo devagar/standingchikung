@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
   <title>Standing ChiKung</title>
-  <link href="{{ base.url }}"/>
-  <link type="application/atom+xml" rel="self" href="{{ base.url }}/feed.atom"/>
+  <link href="http://standingchikung.com"/>
+  <link type="application/atom+xml" rel="self" href="http://standingchikung.com/feed.atom"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>{{ base.url }}/</id>
+  <id>http://standingchikung.com/</id>
   <author>
     <name>Lourenco de Azevedo</name>
     <email>lourencoazevedo@devagar.org</email>
