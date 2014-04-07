@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mZero
+title: Chi Kung Stories
 ---
 <div class='post'>
     <div class='body'>
