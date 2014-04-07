@@ -8,7 +8,7 @@ layout: nil
   <link href="http://standingchikung.com"/>
   <link type="application/atom+xml" rel="self" href="http://standingchikung.com/feed.atom"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://standingchikung.com</id>
+  <id>http://standingchikung.com/</id>
   <author>
     <name>Lourenco de Azevedo</name>
     <email>lourencoazevedo@devagar.org</email>
