@@ -6,7 +6,7 @@ layout: nil
  
   <title>Standing ChiKung</title>
   <link href="http://standingchikung.com"/>
-  <link type="application/atom+xml" rel="self" href=http://standingchikung.com/feed.atom"/>
+  <link type="application/atom+xml" rel="self" href="http://standingchikung.com/feed.atom"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://standingchikung.com</id>
   <author>
