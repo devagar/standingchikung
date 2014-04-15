@@ -4,7 +4,11 @@ title: About
 ---
 ## About
 
-Since 1998 I've embraced the study of the subject of stillness.
+<p><img src="/images/foto.jpg" class="profile" style="float: left; margin-right: 1em; margin-bottom: 0.1em; width: 250px;"></p>
+
+My name is Lourenço de Azevedo, 
+
+Since 1998 I've embraced the study of the subject of stillness along with my Chinese Medical Studies.
 
 I practice and teach Standing Chi Kung known in China as Zhan Zhuang (Pronounces as Jam Jong).
 
