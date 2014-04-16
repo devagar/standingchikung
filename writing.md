@@ -1,7 +1,7 @@
 ---
-layout: default 
+layout: default
+title: Writing
 ---
-## Writting
 
 <div class="hfeed">
 	{% for post in site.posts %}
