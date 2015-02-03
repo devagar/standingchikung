@@ -8,7 +8,7 @@
   <id>http://chikungstories.com/</id>
   <author>
     <name>Lourenco de Azevedo</name>
-    <email>lourencoazevedo@devagar.org</email>
+    <email>lourenco.azevedo@devagar.org</email>
   </author>
 
   {% for post in site.posts %}
