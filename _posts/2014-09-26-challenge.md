@@ -1,4 +1,4 @@
---
+---
 title:  Accepting the challenge
 layout: post
 ---
