@@ -19,4 +19,4 @@ in the practice of those who seek my classes.
 
 I live and teach in Lisbon, Portugal.
 
-This blog contains original and translated texts from a blog I host in Portuguese since 2008 - [Zhan Zhuang Chi Kung - A Arte do Cultivo da Quietude](http://devagar.org)
+This blog contains original and translated texts from a blog I host in Portuguese since 2008 - [Zhan Zhuang Chi Kung - A Arte do Cultivo da Quietude](http://lourencoazevedo.com)

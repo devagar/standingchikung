@@ -11,4 +11,4 @@ description: Ideas and insights about daily practice
 url: http://chikungstories.com
 safe: true
 lsi: false
-pygments: true
+highlighter: 'pygments'
