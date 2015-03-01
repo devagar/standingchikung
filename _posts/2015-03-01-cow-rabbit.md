@@ -12,7 +12,7 @@ One of the aspects of the cultures that I take in high esteem, is the traditiona
 
 One of the expressions, that I learned in Amsterdam, has some part of cartoon and intriguing feeling when I heard it for the first time: - "How does the cow catches the rabbit?"
 
-This expression, has the characteristics of a Zen Koan and it's used on a context - when there is something quite challenging to do, but you can't just figure it out how to do it.
+This expression, has the characteristics of a Zen Koan and it's used on a context - when there is something quite challenging to do, but you just can't figure it out how to do it.
 
 "There is always a way the cow can catch the rabbit" - said my teacher once to me, regarding some question about starting to teach in Portugal, "you just have to figure it out how."
 
@@ -20,7 +20,7 @@ As a good koan, the solution is not related with formulas or a theoretical advic
 
 I guess, everyone who tries to produce meaningful work finds this question every day - How does the cow catches the rabbit?
 
-I find this koan every day on may Chi Kung training - how to keep it simple and effective? But I guess, it's the same for everyone who writes, paints, sings, raises a family or embraces some other activity that he can define as artistic.
+I find this koan every day on may Chi Kung training - how to keep it simple and effective? But I guess, it's the same for everyone who writes, paints, sings, raises a family or embraces some other activity, that he can define as artistic.
 
 The trick is I guess, if every day you exercise the cow, she will get a bit better as the time goes along. She can learn the tricks of the rabbit, and do what is - according to the laws of physics and in our own minds, an event quite unique to happen. 
 
