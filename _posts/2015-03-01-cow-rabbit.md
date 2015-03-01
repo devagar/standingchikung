@@ -1,5 +1,5 @@
 ---
-title: How does the cow catches the rabitt
+title: How does the cow catches the rabbit?
 layout: post
 ---
 Since 2004, I've been traveling to Amsterdam at least twice a year. 
